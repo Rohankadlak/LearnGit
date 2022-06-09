@@ -8,6 +8,7 @@ int main(){
         sum=0;
 	int c=12;
         sum(a,c);
-	sum(a,b);
+
+nothing to do	sum(a,b);
 }
 
